@@ -1,0 +1,18 @@
+如果双击"合并游戏.bat"没有反应，请尝试以下方法：
+
+方法1：手动运行Python脚本
+1. 按 Win+R，输入 cmd，按回车
+2. 输入以下命令（一行一行输入）：
+   cd "d:\游戏网站1\wegogame.net-main"
+   python 合并游戏_直接版.py
+
+方法2：检查Python是否安装
+1. 在命令提示符中输入：python --version
+2. 如果显示版本号，说明Python已安装
+3. 如果没有，请先安装Python：https://www.python.org/downloads/
+
+方法3：使用Python 3
+如果python命令不行，尝试：
+   python3 合并游戏_直接版.py
+
+如果还是不行，请告诉我具体的错误信息。
